@@ -1,0 +1,26 @@
+1. Giới thiệu dự án
+Tên dự án
+
+KidHub AI
+
+Tên đầy đủ
+
+KidHub AI - Smart Wholesale Children's Fashion Platform
+
+Slogan
+
+Grow Smarter. Sell Faster.
+
+2. Mục tiêu
+
+Xây dựng nền tảng bán sỉ quần áo trẻ em có khả năng
+
+quản lý kho
+quản lý đại lý
+AI tư vấn bán hàng
+AI marketing
+AI phân tích doanh thu
+AI chăm sóc khách hàng
+git remote add origin https://github.com/PHAMTHITUYET-BANBAN/KidHubAI.git
+git branch -M main
+git push -u origin main
